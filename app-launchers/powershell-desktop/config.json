@@ -1,0 +1,69 @@
+{
+  "tabGroups": {
+    "_Reference": [
+      "https://chatgpt.com/",
+      "https://claude.ai/new",
+      "https://www.computervision.zone/",
+      "https://linkedin.com/in/lawes",
+      "https://github.com/bernardlawes/"
+    ],
+    "Workspace": [
+      "https://colab.research.google.com/notebooks/" 
+    ],
+    "_TODO": [
+      "https://www.visitlauderdale.com/event/fleet-week-fort-lauderdale/43514/",
+      "https://browardnavydaysinc.org/ship-tours"
+    ]
+  },
+  "apps": [
+    {
+      "name": "Microsoft To Do",
+      "enabled": true,
+      "type": "uwp",
+      "delay": 2,
+      "virtualDesktop": 2,
+      "path": "shell:AppsFolder\\Microsoft.Todos_8wekyb3d8bbwe!App"
+    },
+    {
+      "name": "Calendar - Bernard Lawes - Outlook",
+      "matchTitle": "Calendar - Bernard Lawes",
+      "enabled": true,
+      "type": "uwp",
+      "delay": 5,
+      "virtualDesktop": 3,
+      "path": "shell:AppsFolder\\microsoft.windowscommunicationsapps_8wekyb3d8bbwe!microsoft.windowslive.calendar"
+    },
+    {
+      "name": "VS Code",
+      "enabled": false,
+      "type": "win32",
+      "delay": 2,
+      "virtualDesktop": 1,
+      "path": "C:\\Users\\berna\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
