@@ -1,0 +1,48 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Windows shell history/cache
+*.bak
+*.tmp
+*.swp
+
+# PowerShell history
+ConsoleHost_history.txt
+
+# IDE/editor folders
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs and debug files
+*.log
+*.err
+*.out
+
+# PowerShell module cache (if using PSGallery or dev modules)
+PowerShell/Modules/
+
+# Secrets / sensitive config files
+*.env
+secrets.json
+config.local.json
+*.ps1.secret
+*.credentials.ps1
+
+# Compiled scripts or output
+*.exe
+*.dll
+
+# Optional: ignore startup links
+*.lnk
+
+# GitHub or CI/CD
+.github/
+.gitlab/
+
+# Node/NPM stuff (if web integration or Electron is used)
+node_modules/
+dist/
+build/
